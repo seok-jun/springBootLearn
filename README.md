@@ -20,4 +20,4 @@ Spring Boot를 이용한 간단한 Web Service 만들어보기
 + 상단 이미지에서
   + 1번 Spring initialirz 탭 선택 
   + 2번 Project에서 사용할 JDK 버전 선택 (1.8 사용)
-  + 3번 Service URl은 Default 선택
+  + 3번 Service URl은 Default 선택 후 Next 선택
