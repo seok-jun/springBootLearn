@@ -13,5 +13,7 @@ Spring Boot를 이용한 간단한 Web Service 만들어보기
   + [intelliJ 다운로드](https://www.jetbrains.com/idea/download/#section=mac)
 
 2. **프로젝트 시작 하기**
-
+<img src="https://user-images.githubusercontent.com/20940993/46715979-33746d00-cc9d-11e8-81e3-fc7155d9de21.png"></img>
++ 설치가 완료 된 후 초기설정을 완료(default 설정으로 진행 함)하면 위와 같은 화면이 나온다.
++ Create New Project를 눌러 진행
 
