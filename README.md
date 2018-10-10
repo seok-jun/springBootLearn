@@ -15,7 +15,7 @@ Spring Boot를 이용한 간단한 Web Service 만들어보기
 2. **프로젝트 시작 하기**
 <img src="https://user-images.githubusercontent.com/20940993/46715979-33746d00-cc9d-11e8-81e3-fc7155d9de21.png"></img>
 + 설치가 완료 된 후 초기설정을 완료(default 설정으로 진행 함)하면 위와 같은 화면이 나온다.
-+ Create New Project를 눌러 진행
++ Create New Project를 눌러 진행  
 
 
 <img src="https://user-images.githubusercontent.com/20940993/46716778-4e94ac00-cca0-11e8-8a56-1d19c8f22606.png"></img>
